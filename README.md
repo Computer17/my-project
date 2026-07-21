@@ -31,7 +31,7 @@
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu-usuario/autopost-facebook.git
+   git clone https://github.com/Computer17/my-project.git
 
 
 
